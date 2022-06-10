@@ -1,0 +1,26 @@
+body{ 
+ background-image:url("picture/emdad1.jpg");
+ background-repeat:repeat;
+ background-size:cover;
+}
+p4{
+	font-weight:bold;color:#87f10b;
+}
+H1{
+	font-weight:BOLD;color:red;
+}
+.red{
+	color:red;
+}
+.emdad{
+	font-weight:bold;
+color:blue;}
+p5{text-transform:lowercase;
+   font:italic small-caps bold 26px/150% arial;
+}
+p1{
+	font-weight:bold;color:#ef0000;
+}
+table{
+	color:red;
+}
